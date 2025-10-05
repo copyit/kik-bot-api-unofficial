@@ -8,7 +8,7 @@ This library is ideal for developers, hobbyists, and businesses who want to buil
 We do not endorse the use of this library for spamming or other malicious purposes. Please use this library responsibly.
 
 ## Installation and dependencies ##
-Make sure you have Python 3.8 or above installed on your system. You can install this library directly from GitHub:
+Make sure you have Python 3.8 up to 3.11 installed on your system. You can install this library directly from GitHub:
 ```
 git clone -b new https://github.com/tomer8007/kik-bot-api-unofficial
 pip3 install ./kik-bot-api-unofficial
